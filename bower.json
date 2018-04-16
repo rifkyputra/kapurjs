@@ -1,0 +1,17 @@
+{
+  "name": "myprofile",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "rifky <rifqempul@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
